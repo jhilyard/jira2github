@@ -11,7 +11,7 @@
     "url": "git+https://github.com/jhilyard/jira2github.git"
   },
   "author": "Jeff Hilyard",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/jhilyard/jira2github/issues"
   },
