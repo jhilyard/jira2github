@@ -1,0 +1,19 @@
+{
+  "name": "jira2github",
+  "version": "1.0.0",
+  "description": "Create Github issues from Jira work item XML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhilyard/jira2github.git"
+  },
+  "author": "Jeff Hilyard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhilyard/jira2github/issues"
+  },
+  "homepage": "https://github.com/jhilyard/jira2github#readme"
+}
