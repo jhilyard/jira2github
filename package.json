@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/jhilyard/jira2github/issues"
   },
-  "homepage": "https://github.com/jhilyard/jira2github#readme"
+  "homepage": "https://github.com/jhilyard/jira2github#readme",
+  "dependencies": {
+    "@octokit/rest": "^18.0.12",
+    "js-yaml": "^4.0.0",
+    "turndown": "^7.0.0",
+    "xml2js": "^0.4.23"
+  }
 }
